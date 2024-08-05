@@ -8,4 +8,4 @@ The following image shows the web application's appearance and functionality:
 <img src="./assets/images/Screenshot 2024-08-05 at 3.39.11 PM.png" alt=Marketing Meeting>
 
 ## Deployed Link To Application
-<https://kwansom.github.io/code-refactor-/>
+<https://kwansom.github.io/code-refactor-for-optimization/>

@@ -1,7 +1,6 @@
-# Code Refactor
+# Code Refactor For Optimization
 
-Code Refactor is a refactoring of a codebase to meet accessibility standards,
-so that client's website is optimized for search engines. Code Refactor follows best practices for file structure and naming conventions.
+Code Refactor For Optimization is a refactoring of a codebase to meet accessibility standards, so that client's website is optimized for search engines. Codebase follows best practices for file structure and naming conventions.
 
 ## Mock-Up
 The following image shows the web application's appearance and functionality:
